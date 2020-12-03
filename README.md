@@ -1,6 +1,6 @@
-# Project 3 - Web APIs and NLP - Reddit
+# Web APIs and NLP - Reddit
 
-#### Kevin Renois DSI-R-824
+#### Kevin Renois
 
 
 ---
